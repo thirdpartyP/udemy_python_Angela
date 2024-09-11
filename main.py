@@ -1,1 +1,1 @@
-print("Hell")
+print("Hell")print("Addimg from CMD")
