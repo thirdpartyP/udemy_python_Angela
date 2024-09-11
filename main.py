@@ -1,1 +1,4 @@
-print("Hell")print("Addimg from CMD")
+import miniProjects.day15
+
+print(" <-- From Main --->")
+
