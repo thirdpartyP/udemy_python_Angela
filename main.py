@@ -1,4 +1,2 @@
-import miniProjects.day15
-
-print(" <-- From Main --->")
+import miniProjects.day15_CoffeeMachine
 
